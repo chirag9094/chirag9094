@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3>As an aspiring researcher and BTech student at VIT Chennai, I have dedicated my academic journey to exploring the intersections of cloud computing, machine learning, and optimization algorithms. My research work, which includes the development of innovative models like the Modified Chimp-Whale Optimization Algorithm (MCWOA) and the Modified Dense Convolutional Network (MDCN), reflects a strong commitment to advancing technological solutions in both cloud environments and agricultural systems. I have actively contributed to international collaborations with leading research institutions, resulting in the submission of a research paper to Nature Scientific Reports</h3>
+<h1></h1>
 
 - 🔭 I’m currently working on **advanced optimization algorithms for cloud computing, funded research projects on AI-driven solutions, and federated learning-based disease detection models.**
 
@@ -22,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag9094&show_icons=true&locale=en&layout=compact" alt="chirag9094" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag9094&show_icons=true&locale=en" alt="chirag9094" /></p>-->
+
+<h1></h1>
